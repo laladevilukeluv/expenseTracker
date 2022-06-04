@@ -1,0 +1,22 @@
+nav {
+  display: flex;
+  align-items: center;
+  background-color: #21222a;
+  height: 90px;
+  padding: 10px 25px;
+}
+
+.nav--logo_text,
+.nav--title {
+  margin: 3px;
+}
+.nav--icon {
+  height: 70px;
+  margin-right: 7px;
+}
+
+.nav--logo_text {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 22px;
+}
