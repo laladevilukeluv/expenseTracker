@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 # Overview
-This app enable users to track their expenses. 
+This app enables users to track their expenses. 
 
 <b>SkillSet</b>
 - HTML/CSS
